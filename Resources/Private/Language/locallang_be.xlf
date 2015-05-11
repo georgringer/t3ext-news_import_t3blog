@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T11:47:18Z" product-name="news_import_t3blog">
+		<header/>
+		<body>
+			<trans-unit id="t3blog_importer_title" xml:space="preserve">
+				<source>Import t3blog blog/news records</source>
+			</trans-unit>
+			<trans-unit id="t3blogcategory_importer_title" xml:space="preserve">
+				<source>Import t3blog category records</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
